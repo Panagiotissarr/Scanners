@@ -1,0 +1,132 @@
+[
+    {
+        "ip": "168.220.81.99",
+        "timestamp": "1769927744",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 58
+            }
+        ]
+    },
+    {
+        "ip": "171.34.199.245",
+        "timestamp": "1769927747",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 112
+            }
+        ]
+    },
+    {
+        "ip": "34.144.200.108",
+        "timestamp": "1769927747",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 121
+            }
+        ]
+    },
+    {
+        "ip": "212.70.196.240",
+        "timestamp": "1769927748",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 55
+            }
+        ]
+    },
+    {
+        "ip": "214.75.54.150",
+        "timestamp": "1769927752",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 222
+            }
+        ]
+    },
+    {
+        "ip": "162.244.2.208",
+        "timestamp": "1769927753",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 121
+            }
+        ]
+    },
+    {
+        "ip": "139.38.14.5",
+        "timestamp": "1769927755",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 222
+            }
+        ]
+    },
+    {
+        "ip": "191.61.217.165",
+        "timestamp": "1769927756",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 241
+            }
+        ]
+    },
+    {
+        "ip": "168.183.48.158",
+        "timestamp": "1769927756",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 55
+            }
+        ]
+    },
+    {
+        "ip": "217.14.173.174",
+        "timestamp": "1769927757",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 50
+            }
+        ]
+    }
+]

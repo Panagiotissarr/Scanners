@@ -1,0 +1,185 @@
+[
+    {
+        "ip": "214.78.79.39",
+        "timestamp": "1769930285",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 222
+            }
+        ],
+        "minecraft_version": null,
+        "minecraft_motd": null,
+        "minecraft_players_online": null,
+        "minecraft_players_max": null
+    },
+    {
+        "ip": "159.71.0.222",
+        "timestamp": "1769930286",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 222
+            }
+        ],
+        "minecraft_version": null,
+        "minecraft_motd": null,
+        "minecraft_players_online": null,
+        "minecraft_players_max": null
+    },
+    {
+        "ip": "120.119.29.141",
+        "timestamp": "1769930286",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 44
+            }
+        ],
+        "minecraft_version": null,
+        "minecraft_motd": null,
+        "minecraft_players_online": null,
+        "minecraft_players_max": null
+    },
+    {
+        "ip": "159.71.73.49",
+        "timestamp": "1769930286",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 224
+            }
+        ],
+        "minecraft_version": null,
+        "minecraft_motd": null,
+        "minecraft_players_online": null,
+        "minecraft_players_max": null
+    },
+    {
+        "ip": "168.220.91.227",
+        "timestamp": "1769930287",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 58
+            }
+        ],
+        "minecraft_version": null,
+        "minecraft_motd": null,
+        "minecraft_players_online": null,
+        "minecraft_players_max": null
+    },
+    {
+        "ip": "34.54.44.219",
+        "timestamp": "1769930287",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 122
+            }
+        ],
+        "minecraft_version": null,
+        "minecraft_motd": null,
+        "minecraft_players_online": null,
+        "minecraft_players_max": null
+    },
+    {
+        "ip": "164.251.50.254",
+        "timestamp": "1769930288",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 223
+            }
+        ],
+        "minecraft_version": null,
+        "minecraft_motd": null,
+        "minecraft_players_online": null,
+        "minecraft_players_max": null
+    },
+    {
+        "ip": "129.173.85.224",
+        "timestamp": "1769930288",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 242
+            }
+        ],
+        "minecraft_version": null,
+        "minecraft_motd": null,
+        "minecraft_players_online": null,
+        "minecraft_players_max": null
+    },
+    {
+        "ip": "138.137.31.122",
+        "timestamp": "1769930288",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 224
+            }
+        ],
+        "minecraft_version": null,
+        "minecraft_motd": null,
+        "minecraft_players_online": null,
+        "minecraft_players_max": null
+    },
+    {
+        "ip": "164.250.134.136",
+        "timestamp": "1769930288",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 224
+            }
+        ],
+        "minecraft_version": null,
+        "minecraft_motd": null,
+        "minecraft_players_online": null,
+        "minecraft_players_max": null
+    },
+    {
+        "ip": "164.250.183.175",
+        "timestamp": "1769930292",
+        "ports": [
+            {
+                "port": 25565,
+                "proto": "tcp",
+                "status": "open",
+                "reason": "syn-ack",
+                "ttl": 230
+            }
+        ]
+    }
+]

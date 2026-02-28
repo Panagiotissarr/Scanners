@@ -1,0 +1,7 @@
+[
+{   "ip": "214.75.149.246",   "timestamp": "1769784167", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 225} ] }
+,
+{   "ip": "147.46.61.15",   "timestamp": "1769784168", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 113} ] }
+,
+{   "ip": "204.208.137.104",   "timestamp": "1769784168", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 227} ] }
+]

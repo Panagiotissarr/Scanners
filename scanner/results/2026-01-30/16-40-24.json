@@ -1,0 +1,23 @@
+[
+{   "ip": "116.182.24.135",   "timestamp": "1769784026", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 111} ] }
+,
+{   "ip": "143.83.48.166",   "timestamp": "1769784029", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 224} ] }
+,
+{   "ip": "164.251.100.0",   "timestamp": "1769784029", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 231} ] }
+,
+{   "ip": "163.18.28.146",   "timestamp": "1769784029", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 236} ] }
+,
+{   "ip": "42.121.148.198",   "timestamp": "1769784031", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 35} ] }
+,
+{   "ip": "160.251.205.50",   "timestamp": "1769784031", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 47} ] }
+,
+{   "ip": "87.90.86.17",   "timestamp": "1769784033", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 239} ] }
+,
+{   "ip": "185.15.42.110",   "timestamp": "1769784034", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 110} ] }
+,
+{   "ip": "204.208.149.42",   "timestamp": "1769784035", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 227} ] }
+,
+{   "ip": "89.35.52.168",   "timestamp": "1769784035", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 116} ] }
+,
+{   "ip": "162.244.2.173",   "timestamp": "1769784036", "ports": [ {"port": 25565, "proto": "tcp", "status": "open", "reason": "syn-ack", "ttl": 121} ] }
+]
